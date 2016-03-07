@@ -1,0 +1,28 @@
+name: Ethan Tsui
+favicon: null
+layout_spectrum: 0.29274196177721024
+typography_spectrum: 0.5047226778697222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.738202417967841
+  lightness: 0.08105479902587831
+  saturation: 0.3181407961528748
+  rhythmicContrast: 0.22110121720470488
+purpose: []
